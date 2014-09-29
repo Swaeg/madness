@@ -1,4 +1,4 @@
 Madness
 =======
 
-Touch Designer and Fadecandy things
+TouchDesigner and Fadecandy things
